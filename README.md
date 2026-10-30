@@ -126,7 +126,7 @@ The following screenshots document the lab setup.
 
 ### 2. Network Adapter Configuration
 
-![Network Adapter Configuration](https://github.com/midhunmadhu1501-cmd/NETWORKWALKS-MIDHUN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/319080159a570d571c3d9c24351abc280c152793/screenshots/image4.jpeg)
+![Network Adapter Configuration](https://github.com/midhunmadhu1501-cmd/NETWORKWALKS-MIDHUN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/319080159a570d571c3d9c24351abc280c152793/screenshots/image%204.jpeg)
 
 ### 3. NAT NETWORK
 
