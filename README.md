@@ -122,7 +122,7 @@ The following screenshots document the lab setup.
 
 ### 1. Kali Linux Virtual Machine
 
-![Kali Linux VM](screenshots/image 2.jpeg)
+![Kali Linux VM](https://github.com/midhunmadhu1501-cmd/NETWORKWALKS-MIDHUN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/e7c565118c01b0c940be912d3791baf405ccc001/screenshots/image%202.jpeg))
 
 ### 2. Network Adapter Configuration
 
