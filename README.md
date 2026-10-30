@@ -120,23 +120,19 @@ Captured screenshots of the configuration and setup process to document the work
 
 The following screenshots document the lab setup.
 
-### 1. VirtualBox Configuration
+### 1. Kali Linux Virtual Machine
 
-![VirtualBox Configuration](screenshots/virtualbox-configuration.png)
+![Kali Linux VM](screenshots/image2.jpeg)
 
-### 2. Kali Linux Virtual Machine
-
-![Kali Linux VM](screenshots/kali-linux-vm.png)
-
-### 3. Network Adapter Configuration
+### 2. Network Adapter Configuration
 
 ![Network Adapter Configuration](screenshots/network-adapter.png)
 
-### 4. Kali Linux Desktop
+### 3. Kali Linux Desktop
 
 ![Kali Linux Desktop](screenshots/kali-desktop.png)
 
-### 5. Network Verification
+### 4. Network Verification
 
 ![Network Verification](screenshots/network-verification.png)
 
