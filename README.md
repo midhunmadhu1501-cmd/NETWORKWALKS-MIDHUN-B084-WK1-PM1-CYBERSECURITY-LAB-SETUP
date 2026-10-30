@@ -126,11 +126,11 @@ The following screenshots document the lab setup.
 
 ### 2. Network Adapter Configuration
 
-![Network Adapter Configuration]([screenshots/network-adapter.png](https://github.com/midhunmadhu1501-cmd/NETWORKWALKS-MIDHUN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/319080159a570d571c3d9c24351abc280c152793/screenshots/image%204.jpeg))
+![Network Adapter Configuration]([screenshots/network-adapter.png](https://github.com/midhunmadhu1501-cmd/NETWORKWALKS-MIDHUN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/319080159a570d571c3d9c24351abc280c152793/screenshots/image4.jpeg))
 
 ### 3. NAT NETWORK
 
-![Kali Linux Desktop]([screenshots/kali-desktop.png](https://github.com/midhunmadhu1501-cmd/NETWORKWALKS-MIDHUN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/319080159a570d571c3d9c24351abc280c152793/screenshots/image%203.jpeg))
+![Kali Linux Desktop]([screenshots/kali-desktop.png](https://github.com/midhunmadhu1501-cmd/NETWORKWALKS-MIDHUN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/319080159a570d571c3d9c24351abc280c152793/screenshots/image3.jpeg))
 
 ### 4. Network Verification
 
