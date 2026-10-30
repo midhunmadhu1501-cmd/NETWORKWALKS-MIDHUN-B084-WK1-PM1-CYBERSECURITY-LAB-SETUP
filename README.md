@@ -122,7 +122,7 @@ The following screenshots document the lab setup.
 
 ### 1. Kali Linux Virtual Machine
 
-![Kali Linux VM](screenshots/image2.jpeg)
+![Kali Linux VM](screenshots/image 2.jpeg)
 
 ### 2. Network Adapter Configuration
 
